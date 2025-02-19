@@ -39,7 +39,7 @@ On Windows:
 
 1. install cloudflared downloading ``` cloudflared-windows-amd64.exe ``` from [here](https://github.com/cloudflare/cloudflared/releases/latest)
 2. rename it ``` cloudflared.exe ```
-3. move it to ``` C:\Program Files\Cloudflared\ ```
+3. create the folder ``` C:\Program Files\Cloudflared\ ``` and move ``` cloudflared.exe ``` in it
 4. add ``` C:\Program Files\Cloudflared\ ``` to your System PATH (optional for easier use)
 5. prompt in a command prompt(```cmd.exe```) or powershell:
    
