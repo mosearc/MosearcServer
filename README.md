@@ -1,4 +1,4 @@
-# Intruction to access via ssh to a server proxyed by Cloudflare
+# Intruction to access via ssh in a server proxyed by Cloudflare
 
 On Linux:
 
