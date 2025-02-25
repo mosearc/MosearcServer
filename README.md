@@ -15,7 +15,7 @@ sudo mv cloudflared /usr/local/bin/
 * prompt
   
 ```
-ssh -o ProxyCommand="cloudflared access ssh --hostname ssh.domain.com" user@ssh.username.com -p portnumber
+ssh -o ProxyCommand="cloudflared access ssh --hostname ssh.domain.com" user@ssh.domain.com -p portnumber
 ```
   
 * or, in order to avoid to use every time the above command, edit ```~/.ssh/config```
