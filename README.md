@@ -1,4 +1,11 @@
-# Intruction to access via ssh in a server proxyed by Cloudflare
+# [MOSEARC SERVER](https://mosearc.eu/) 
+## Stack:
+- Operating System: Ubuntu Server
+- Web Server: Apache
+- IP and Network Security: Cloudflare
+
+---
+# Instruction to access via ssh in a server proxyed by Cloudflare
 
 On Linux:
 
